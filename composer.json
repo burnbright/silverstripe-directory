@@ -9,6 +9,9 @@
 			"email": "jeremy@burnbright.net"
 		}
 	],
+    "extra": {
+		"installer-name": "directory"
+    },
 	"license": "BSD-3-Clause",
 	"require": {
 		"silverstripe/cms": "3.1.x"
