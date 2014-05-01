@@ -1,0 +1,16 @@
+{
+	"name": "burnbright/silverstripe-directory",
+	"description": "A simple page type for creating directory lists",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "directory"],
+	"authors": [
+		{
+			"name": "Jeremy Shipman",
+			"email": "jeremy@burnbright.net"
+		}
+	],
+	"license": "BSD-3-Clause",
+	"require": {
+		"silverstripe/cms": "3.1.x"
+	}
+}
